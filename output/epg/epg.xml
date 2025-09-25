@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250925183035 +0800">
+<tv date="20250925193109 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -20279,6 +20279,21 @@
 	</programme>
 	<programme channel="魅力足球" start="20250926235000 +0800" stop="20250926235900 +0800">
 		<title lang="zh">2025南美解放者杯小组赛</title>
+	</programme>
+	<channel id="黑莓动画">
+		<display-name lang="zh">黑莓动画</display-name>
+	</channel>
+	<programme channel="黑莓动画" start="20250926000700 +0800" stop="20250926040700 +0800">
+		<title lang="zh">31_樱桃小丸子 第二季普通话版</title>
+	</programme>
+	<channel id="黑莓电影">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel>
+	<programme channel="黑莓电影" start="20250926003000 +0800" stop="20250926015200 +0800">
+		<title lang="zh">双生</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250926015200 +0800" stop="20250926033600 +0800">
+		<title lang="zh">养蜂人</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
