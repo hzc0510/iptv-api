@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-09 22:34:27,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-03-10 10:15:35,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1289,7 +1289,6 @@ tvN,https://hls-gateway.vpstv.net/streams/709507.m3u8
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,https://cdn.163189.xyz/163189/viu
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-ViuTV6,http://hls.168.us.kg/u/96/master.m3u8
 Warner TV,https://hls-gateway.vpstv.net/streams/602243.m3u8
 澳门体育,http://cdn6.163189.xyz/163189/amty
 澳视澳门,http://r.jdshipin.com/n2YZI
@@ -1932,6 +1931,7 @@ TVBS欢乐,url
 TVBS欢乐台,url
 TVBS新闻,url
 TVBS新闻台,url
+ViuTV6,url
 阿里郎,url
 爱放动漫,url
 澳门资讯,url

@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/hzc0510/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-03-09 22:34:27
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-03-10 10:15:35
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -2443,8 +2443,6 @@ http://r.jdshipin.com/vSJvl
 https://cdn.163189.xyz/163189/viu
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ViuTV.png" group-title="🌊港·澳·台·外",ViuTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-#EXTINF:-1 tvg-name="ViuTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ViuTV6.png" group-title="🌊港·澳·台·外",ViuTV6
-http://hls.168.us.kg/u/96/master.m3u8
 #EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Warner TV.png" group-title="🌊港·澳·台·外",Warner TV
 https://hls-gateway.vpstv.net/streams/602243.m3u8
 #EXTINF:-1 tvg-name="澳门体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳门体育.png" group-title="🌊港·澳·台·外",澳门体育
@@ -3700,6 +3698,8 @@ url
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS新闻.png" group-title="🈳无结果频道",TVBS新闻
 url
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS新闻台.png" group-title="🈳无结果频道",TVBS新闻台
+url
+#EXTINF:-1 tvg-name="ViuTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ViuTV6.png" group-title="🈳无结果频道",ViuTV6
 url
 #EXTINF:-1 tvg-name="阿里郎" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/阿里郎.png" group-title="🈳无结果频道",阿里郎
 url
