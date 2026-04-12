@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-11 22:22:48,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-04-12 10:09:53,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1797,6 +1797,7 @@ NBTV-4,url
 江苏体育,url
 泗阳综合,url
 泗阳资讯,url
+滨海新闻综合,url
 镇江二套社会民生,url
 朝阳新闻综合,url
 湖南视剧,url
