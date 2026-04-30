@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-29 23:19:51,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-04-30 10:46:10,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1769,6 +1769,7 @@ NBTV-4,url
 河南民生,url
 邢台城生,url
 嘉峪关综合,url
+天祝综合,url
 景泰综合,url
 武威新闻,url
 永昌综合,url
