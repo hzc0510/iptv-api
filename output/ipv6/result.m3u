@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/hzc0510/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-05-05 23:13:53
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-05-06 10:48:13
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -2226,6 +2226,8 @@ https://hls-gateway.vpstv.net/streams/709547.m3u8
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="🌊港·澳·台·外",AXN
 https://hls-gateway.vpstv.net/streams/709502.m3u8
 #EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Earth.png" group-title="🌊港·澳·台·外",BBC Earth
+https://smart.pendy.dpdns.org/Smart.php?id=bbcearth_twn
+#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Earth.png" group-title="🌊港·澳·台·外",BBC Earth
 https://hls-gateway.vpstv.net/streams/477040.m3u8
 #EXTINF:-1 tvg-name="BBC Lifestyle" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Lifestyle.png" group-title="🌊港·澳·台·外",BBC Lifestyle
 https://hls-gateway.vpstv.net/streams/476671.m3u8
@@ -2262,6 +2264,8 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNA.png" group-title="🌊港·澳·台·外",CNA
 https://hls-gateway.vpstv.net/streams/709497.m3u8
 #EXTINF:-1 tvg-name="CNBC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNBC.png" group-title="🌊港·澳·台·外",CNBC
+https://smart.pendy.dpdns.org/Smart.php?id=cnbc_twn
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNBC.png" group-title="🌊港·澳·台·外",CNBC
 https://hls-gateway.vpstv.net/streams/709561.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN.png" group-title="🌊港·澳·台·外",CNN
 https://jmp2.uk/sam-GBBD8000016N.m3u8
@@ -2278,29 +2282,47 @@ https://hls-gateway.vpstv.net/streams/476991.m3u8
 #EXTINF:-1 tvg-name="DAZN2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/DAZN2.png" group-title="🌊港·澳·台·外",DAZN2
 https://stream1.freetv.fun/dazn-sport-2-1.ctv
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Discovery.png" group-title="🌊港·澳·台·外",Discovery
+https://smart.pendy.dpdns.org/Smart.php?id=discoveryhd_twn
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Discovery.png" group-title="🌊港·澳·台·外",Discovery
 https://hls-gateway.vpstv.net/streams/477746.m3u8
+#EXTINF:-1 tvg-name="Discovery Asia" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Discovery Asia.png" group-title="🌊港·澳·台·外",Discovery Asia
+https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
 #EXTINF:-1 tvg-name="Discovery Asia" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Discovery Asia.png" group-title="🌊港·澳·台·外",Discovery Asia
 https://hls-gateway.vpstv.net/streams/708899.m3u8
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Discovery Channel.png" group-title="🌊港·澳·台·外",Discovery Channel
 https://hls-gateway.vpstv.net/streams/477713.m3u8
+#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Euronews.png" group-title="🌊港·澳·台·外",Euronews
+https://smart.pendy.dpdns.org/Smart.php?id=euronews_antik
 #EXTINF:-1 tvg-name="Euronews" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Euronews.png" group-title="🌊港·澳·台·外",Euronews
 https://hls-gateway.vpstv.net/streams/476329.m3u8
 #EXTINF:-1 tvg-name="Euronews" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Euronews.png" group-title="🌊港·澳·台·外",Euronews
 https://aegis-cloudfront-1.tubi.video/4748bce1-cc5e-471f-a922-bcf11fece245/index.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/EUROSPORT.png" group-title="🌊港·澳·台·外",EUROSPORT
 https://hls-gateway.vpstv.net/streams/709567.m3u8
+#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Fashion TV.png" group-title="🌊港·澳·台·外",Fashion TV
+https://smart.pendy.dpdns.org/Smart.php?id=fashiontv_twn
+#EXTINF:-1 tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/France 24.png" group-title="🌊港·澳·台·外",France 24
+https://smart.pendy.dpdns.org/Smart.php?id=france24_twn
 #EXTINF:-1 tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/France 24.png" group-title="🌊港·澳·台·外",France 24
 https://hls-gateway.vpstv.net/streams/709499.m3u8
 #EXTINF:-1 tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/France 24.png" group-title="🌊港·澳·台·外",France 24
 https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO.png" group-title="🌊港·澳·台·外",HBO
+https://smart.pendy.dpdns.org/Smart.php?id=Hbo
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO.png" group-title="🌊港·澳·台·外",HBO
 https://hls-gateway.vpstv.net/streams/476278.m3u8
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO.png" group-title="🌊港·澳·台·外",HBO
 http://nor3live.win:80/livehttpplay?channel_id=23356
 #EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO Family.png" group-title="🌊港·澳·台·外",HBO Family
+https://smart.pendy.dpdns.org/Smart.php?id=Hbofamily
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO Family.png" group-title="🌊港·澳·台·外",HBO Family
 https://hls-gateway.vpstv.net/streams/477727.m3u8
 #EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO Hits.png" group-title="🌊港·澳·台·外",HBO Hits
+https://smart.pendy.dpdns.org/Smart.php?id=Hbohitshd
+#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO Hits.png" group-title="🌊港·澳·台·外",HBO Hits
 https://hls-gateway.vpstv.net/streams/709552.m3u8
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO Signature.png" group-title="🌊港·澳·台·外",HBO Signature
+https://smart.pendy.dpdns.org/Smart.php?id=Hbosignature
 #EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO Signature.png" group-title="🌊港·澳·台·外",HBO Signature
 https://hls-gateway.vpstv.net/streams/476634.m3u8
 #EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HISTORY.png" group-title="🌊港·澳·台·外",HISTORY
@@ -2315,6 +2337,8 @@ https://hls-gateway.vpstv.net/streams/708920.m3u8
 https://hls-gateway.vpstv.net/streams/708943.m3u8
 #EXTINF:-1 tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV.png" group-title="🌊港·澳·台·外",MTV
 https://hls-gateway.vpstv.net/streams/708883.m3u8
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NBA TV.png" group-title="🌊港·澳·台·外",NBA TV
+https://smart.pendy.dpdns.org/Smart.php?id=Nba
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NBA TV.png" group-title="🌊港·澳·台·外",NBA TV
 https://hls-gateway.vpstv.net/streams/476673.m3u8
 #EXTINF:-1 tvg-name="ROCK Action" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ROCK Action.png" group-title="🌊港·澳·台·外",ROCK Action
@@ -2390,6 +2414,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 #EXTINF:-1 tvg-name="ViuTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ViuTV6.png" group-title="🌊港·澳·台·外",ViuTV6
 https://cdn10.163189.xyz/stream/163189/viu6/
 #EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Warner TV.png" group-title="🌊港·澳·台·外",Warner TV
+https://smart.pendy.dpdns.org/Smart.php?id=WarnerTV
+#EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Warner TV.png" group-title="🌊港·澳·台·外",Warner TV
 https://hls-gateway.vpstv.net/streams/602243.m3u8
 #EXTINF:-1 tvg-name="澳门体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳门体育.png" group-title="🌊港·澳·台·外",澳门体育
 http://cdn6.163189.xyz/163189/amty
@@ -2443,6 +2469,8 @@ https://hls-gateway.vpstv.net/streams/493133.m3u8
 https://hls-gateway.vpstv.net/streams/477062.m3u8
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🌊港·澳·台·外",东森超视
 https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🌊港·澳·台·外",东森超视
+https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🌊港·澳·台·外",东森超视
 https://hls-gateway.vpstv.net/streams/476234.m3u8
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森电影.png" group-title="🌊港·澳·台·外",东森电影
@@ -2666,6 +2694,8 @@ https://stream1.freetv.fun/wei-lai-dian-ying-1.m3u8
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来电影.png" group-title="🎬电影频道",纬来电影
 https://hls-gateway.vpstv.net/streams/477063.m3u8
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来电影.png" group-title="🎬电影频道",纬来电影
+https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
+#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来电影.png" group-title="🎬电影频道",纬来电影
 https://smt.iktv.ddns-ip.net/Smart.php?id=videolandmovie
 #EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天映画.png" group-title="🎬电影频道",靖天映画
 https://hls-gateway.vpstv.net/streams/476302.m3u8
@@ -2727,6 +2757,8 @@ http://php.666230.xyz/smt.php?id=ettvwestern
 https://live.catvod.com/live.php?id=ettvwestern
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🎬电影频道",东森超视
 https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🎬电影频道",东森超视
+https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🎬电影频道",东森超视
 https://hls-gateway.vpstv.net/streams/476234.m3u8
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华戏剧.png" group-title="🎬电影频道",龙华戏剧
@@ -2795,6 +2827,8 @@ https://hls-gateway.vpstv.net/streams/476954.m3u8
 http://cdn2.132.us.kg/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png" group-title="🏀体育频道",广东体育
 https://stream1.freetv.fun/3864d41a409cbbbd8579e4ec03eb47e6cf65b15f5cae7c3cd44ccd4b9991a017.m3u8
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🏀体育频道",纬来体育
+https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🏀体育频道",纬来体育
 https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🏀体育频道",纬来体育
@@ -3540,8 +3574,6 @@ url
 #EXTINF:-1 tvg-name="CNN新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN新闻.png" group-title="🈳无结果频道",CNN新闻
 url
 #EXTINF:-1 tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/DW.png" group-title="🈳无结果频道",DW
-url
-#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Fashion TV.png" group-title="🈳无结果频道",Fashion TV
 url
 #EXTINF:-1 tvg-name="HOY77" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HOY77.png" group-title="🈳无结果频道",HOY77
 url
