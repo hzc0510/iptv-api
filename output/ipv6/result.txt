@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-15 23:49:40,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-05-16 10:40:47,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1015,6 +1015,11 @@ CETV-4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 偃师新闻,http://tvpull.dxhmt.cn:9081/tv/10381-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
 
 ☘️河北频道,#genre#
+鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
+邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
+邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
+邯郸新闻,https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
+邯郸科教,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
 邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邢台综合,https://stream1.freetv.fun/xing-tai-zong-he-2.m3u8
@@ -1026,7 +1031,16 @@ CETV-4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 河北都市,https://stream1.freetv.fun/he-bei-du-shi-13.ctv
 河北农民,https://ls.qingting.fm/live/1650/64k.m3u8
+河北农民,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 河北农民,http://ls.qingting.fm/live/1650.m3u8
+昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
+任丘文娱,https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
+任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
+兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+平泉影视,https://jwcdnqx.hebyun.com.cn/zb/pqys/1500k/tzwj_video.m3u8
+平泉综合,https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
+清河新闻综合,https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
+清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
 
 ☘️贵州频道,#genre#
 安顺新闻,http://hplayer1.juyun.tv/camera/154379194.m3u8
@@ -1157,6 +1171,7 @@ CETV-4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 ABC Australia,https://hls-gateway.vpstv.net/streams/709547.m3u8
 AXN,https://hls-gateway.vpstv.net/streams/709502.m3u8
 AXN,http://[240e:f7:4f01:23:60::11]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226429/index.m3u8
+BBC Earth,https://smart.pendy.dpdns.org/Smart.php?id=bbcearth_twn
 BBC Earth,https://hls-gateway.vpstv.net/streams/477040.m3u8
 BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 BBC Lifestyle,https://hls-gateway.vpstv.net/streams/476671.m3u8
@@ -1179,24 +1194,34 @@ CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index
 CNA,https://hls-gateway.vpstv.net/streams/709497.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNBC,http://nor1live.win:80/livehttpplay?channel_id=23115
+CNBC,https://smart.pendy.dpdns.org/Smart.php?id=cnbc_twn
 CNBC,https://hls-gateway.vpstv.net/streams/709561.m3u8
 CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8
 CNN,https://hls-gateway.vpstv.net/streams/709560.m3u8
 DAZN 1,https://hls-gateway.vpstv.net/streams/639643.m3u8
 DAZN 2,https://hls-gateway.vpstv.net/streams/476991.m3u8
 DAZN2,https://stream1.freetv.fun/dazn-sport-2-1.ctv
+Discovery,https://smart.pendy.dpdns.org/Smart.php?id=discoveryhd_twn
 Discovery,https://hls-gateway.vpstv.net/streams/477746.m3u8
+Discovery Asia,https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
 Discovery Asia,https://hls-gateway.vpstv.net/streams/708899.m3u8
 Discovery Channel,https://hls-gateway.vpstv.net/streams/477713.m3u8
+Euronews,https://smart.pendy.dpdns.org/Smart.php?id=euronews_antik
 Euronews,https://hls-gateway.vpstv.net/streams/476329.m3u8
 Euronews,https://aegis-cloudfront-1.tubi.video/4748bce1-cc5e-471f-a922-bcf11fece245/index.m3u8
 EUROSPORT,https://hls-gateway.vpstv.net/streams/709567.m3u8
+Fashion TV,https://smart.pendy.dpdns.org/Smart.php?id=fashiontv_twn
+France 24,https://smart.pendy.dpdns.org/Smart.php?id=france24_twn
 France 24,https://hls-gateway.vpstv.net/streams/709499.m3u8
 France 24,https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/playlist.m3u8
+HBO,https://smart.pendy.dpdns.org/Smart.php?id=Hbo
 HBO,https://hls-gateway.vpstv.net/streams/476278.m3u8
 HBO,http://nor3live.win:80/livehttpplay?channel_id=23356
+HBO Family,https://smart.pendy.dpdns.org/Smart.php?id=Hbofamily
 HBO Family,https://hls-gateway.vpstv.net/streams/477727.m3u8
+HBO Hits,https://smart.pendy.dpdns.org/Smart.php?id=Hbohitshd
 HBO Hits,https://hls-gateway.vpstv.net/streams/709552.m3u8
+HBO Signature,https://smart.pendy.dpdns.org/Smart.php?id=Hbosignature
 HBO Signature,https://hls-gateway.vpstv.net/streams/476634.m3u8
 HISTORY,https://hls-gateway.vpstv.net/streams/477710.m3u8
 HITS,https://hls-gateway.vpstv.net/streams/709508.m3u8
@@ -1206,6 +1231,7 @@ HOY78,https://cdn.163189.xyz/163189/hoy78
 Lifetime,https://hls-gateway.vpstv.net/streams/708920.m3u8
 LUXE TV Channel,https://hls-gateway.vpstv.net/streams/708943.m3u8
 MTV,https://hls-gateway.vpstv.net/streams/708883.m3u8
+NBA TV,https://smart.pendy.dpdns.org/Smart.php?id=Nba
 NBA TV,https://hls-gateway.vpstv.net/streams/476673.m3u8
 ROCK Action,https://hls-gateway.vpstv.net/streams/709551.m3u8
 Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
@@ -1217,6 +1243,7 @@ TVB Plus,http://r.jdshipin.com/Nr5jq
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,https://stream1.freetv.fun/tvb-j2-1.m3u8
 TVBS,http://dbmlasvgas.sylu.cc:8880/stream/13884e44-5dda-4fc9-9809-3aa05f166e51/playlist.m3u8
+TVBS,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv073
 TVBS,https://hls-gateway.vpstv.net/streams/708925.m3u8
 TVBSNEWS,https://hls-gateway.vpstv.net/streams/708927.m3u8
 TVBS台剧,https://hls-gateway.vpstv.net/streams/708956.m3u8
@@ -1244,6 +1271,7 @@ ViuTV,https://cdn.163189.xyz/163189/viu
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 ViuTV,https://cdn10.163189.xyz/stream/163189/viu/
 ViuTV6,https://cdn10.163189.xyz/stream/163189/viu6/
+Warner TV,https://smart.pendy.dpdns.org/Smart.php?id=WarnerTV
 Warner TV,https://hls-gateway.vpstv.net/streams/602243.m3u8
 澳门体育,http://cdn6.163189.xyz/163189/amty
 澳视澳门,http://r.jdshipin.com/n2YZI
@@ -1268,6 +1296,7 @@ Warner TV,https://hls-gateway.vpstv.net/streams/602243.m3u8
 大爱二台,https://hls-gateway.vpstv.net/streams/493133.m3u8
 东森财经新闻,https://hls-gateway.vpstv.net/streams/477062.m3u8
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8
+东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 东森超视,https://hls-gateway.vpstv.net/streams/476234.m3u8
 东森电影,https://hls-gateway.vpstv.net/streams/476995.m3u8
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-3.m3u8
@@ -1381,6 +1410,7 @@ CHC动作电影,https://stream.freetv.fun/2f2e29b8759a2458730dc1f368602447269195
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 纬来电影,https://stream1.freetv.fun/wei-lai-dian-ying-1.m3u8
 纬来电影,https://hls-gateway.vpstv.net/streams/477063.m3u8
+纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 纬来电影,https://smt.iktv.ddns-ip.net/Smart.php?id=videolandmovie
 靖天映画,https://hls-gateway.vpstv.net/streams/476302.m3u8
 靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
@@ -1412,6 +1442,7 @@ CHC动作电影,https://stream.freetv.fun/2f2e29b8759a2458730dc1f368602447269195
 东森洋片,http://php.666230.xyz/smt.php?id=ettvwestern
 东森洋片,https://live.catvod.com/live.php?id=ettvwestern
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8
+东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 东森超视,https://hls-gateway.vpstv.net/streams/476234.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 龙华戏剧,https://hls-gateway.vpstv.net/streams/476293.m3u8
@@ -1450,6 +1481,7 @@ CCTV-5+,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/0000000100000006000000000000
 广东体育,https://hls-gateway.vpstv.net/streams/476954.m3u8
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,https://stream1.freetv.fun/3864d41a409cbbbd8579e4ec03eb47e6cf65b15f5cae7c3cd44ccd4b9991a017.m3u8
+纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 纬来体育,https://hls-gateway.vpstv.net/streams/477026.m3u8
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-3.m3u8
@@ -1542,7 +1574,6 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-3.ctv
 中华小当家,https://live.ottiptv.cc/huya/11342413
 中华小当家,https://live.metshop.top/huya/11342413
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
-猫和老鼠,https://live.metshop.top/huya/11352879
 蜡笔小新,https://live.ottiptv.cc/bilibili/30837590
 漫画解说,https://www.goodiptv.club/douyu/5907076
 
@@ -1731,21 +1762,9 @@ NBTV-4,url
 邓州新闻,url
 河南都市,url
 河南民生,url
-鹿泉一套,url
-邯郸科技教育,url
-邯郸公共,url
-邯郸新闻,url
-邯郸科教,url
 邢台城生,url
-昌黎综合,url
-任丘文娱,url
-任丘综合,url
-兴隆综合,url
-平泉影视,url
-平泉综合,url
-清河新闻综合,url
-清河经济综艺,url
 嘉峪关综合,url
+天祝综合,url
 张掖新闻综合,url
 景泰综合,url
 武威新闻,url
@@ -1790,7 +1809,6 @@ NBTV-4,url
 山西社会与法治,url
 山西经济,url
 山西经济与科技,url
-平遥新闻综合,url
 怀仁综合,url
 祁县新闻综合,url
 长子综合,url
@@ -1849,7 +1867,6 @@ CinemaWorld,url
 CNBC Asia,url
 CNN新闻,url
 DW,url
-Fashion TV,url
 J2,url
 Love Nature,url
 LOVE NATURE 4K,url
