@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-26 00:25:03,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-06-26 11:26:07,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -240,6 +240,7 @@ CETV-4,http://mgsp-cty2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/ind
 北京卫视4K,http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/wh7f454c46tw956907851_-1872531373/ott.mobaibox.com/PLTV/3/224/3221227390/index.m3u8?icpid=3&RTS=1674381072&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 北京卫视4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw2172392385_-1992157393/ott.mobaibox.com/PLTV/3/224/3221227652/index.m3u8?icpid=3&RTS=1674386582&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 北京卫视4K,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8
+浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
@@ -258,6 +259,7 @@ CETV-4,http://mgsp-cty2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/ind
 香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 浙江卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225703/2/index.m3u8
 浙江卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226339/index.m3u8
@@ -265,7 +267,6 @@ CETV-4,http://mgsp-cty2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/ind
 浙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 浙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw1197826796_-265147758/ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8?icpid=3&RTS=1669699798&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 浙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw1752010066_1165595682/ott.mobaibox.com/PLTV/3/224/3221225544/index.m3u8?icpid=3&RTS=1674386162&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-浙江卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001023/index.m3u8
 湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
 湖南卫视,https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
 湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
@@ -625,21 +626,27 @@ CETV-4,http://mgsp-cty2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/ind
 
 ☘️浙江频道,#genre#
 浙江钱江,https://stream1.freetv.fun/zhe-jiang-qian-jiang-du-shi-4.ctv
+浙江钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-1.ctv
 浙江生活,http://ls.qingting.fm/live/1099.m3u8
 浙江经济生活,http://ls.qingting.fm/live/1099.m3u8
+浙江经济生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
 浙江经济生活,https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-2.m3u8
 浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng-1.m3u8
+浙江新闻,http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-5.m3u8
 浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-4.m3u8
 杭州综合,https://stream1.freetv.fun/hang-zhou-zong-he-3.ctv
 杭州明珠,https://stream1.freetv.fun/hang-zhou-ming-zhu-2.ctv
 杭州生活,https://stream1.freetv.fun/hang-zhou-sheng-huo-1.ctv
 杭州影视,https://stream1.freetv.fun/hang-zhou-ying-shi-2.ctv
+浙江国际,http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
 浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-10.m3u8
 嘉兴新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 湖州公共,https://stream1.freetv.fun/hu-zhou-gong-gong-9.m3u8
+浙江民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
 浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-10.m3u8
+浙江教科影视,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
 浙江公共新闻,https://stream1.freetv.fun/zhe-jiang-gong-gong-xin-wen-1.m3u8
 衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-1.m3u8
 萧山新闻综合,https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-6.m3u8
@@ -1229,7 +1236,6 @@ Warner TV,https://hls-gateway.vpstv.net/streams/602243.m3u8
 东森新闻,https://hls-gateway.vpstv.net/streams/476998.m3u8
 东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-1.m3u8
 东森亚洲卫视,https://hls-gateway.vpstv.net/streams/476264.m3u8
-东森亚洲卫视,https://pull-hsbj.vzan.com/v/slowlive_821481626725612419.flv
 东森洋片,https://stream1.freetv.fun/dong-sen-yang-pian-3.m3u8
 东森洋片,https://hls-gateway.vpstv.net/streams/476997.m3u8
 东森洋片,https://smt.858.qzz.io/Smart.php?id=ettvwestern
@@ -1552,10 +1558,8 @@ CCTV-15,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000055BESTVS
 东方卫视4K,url
 山东卫视4K,url
 湖南卫视4K,url
-浙江卫视4K,url
 四川卫视4K,url
 旅游卫视,url
-浙江钱江都市,url
 浙江教育,url
 杭州西湖明珠,url
 杭州青少,url
@@ -1573,7 +1577,6 @@ NBTV-4,url
 浙江留学,url
 浙江数码时代,url
 浙江教科影院,url
-浙江教科影视,url
 浙江休闲台,url
 浙江遂昌,url
 诸暨新闻综合,url
