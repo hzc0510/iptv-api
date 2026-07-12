@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-11 23:03:31,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-07-12 10:49:27,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1038,6 +1038,11 @@ CETV-4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 黄山公共生活,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
 铜陵新闻综合,https://ls.qingting.fm/live/21303/64k.m3u8
 祁门综合,http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
+滁州科教,http://live.cztv.cc:85/live/sjpd.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+滁州新闻综合,http://live.cztv.cc:85/live/xwpd.m3u8?zanhd
+滁州市广播电视台 新闻综合,http://live.cztv.cc:85/live/xwpd.m3u8
+滁州市广播电视台 公共,http://live.cztv.cc:85/live/ggpd.m3u8
+滁州公共,http://live.cztv.cc:85/live/ggpd.m3u8?zanhd
 宿州新闻综合,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
 宿州新闻综合,https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-1.m3u8
 六安新闻综合,http://ls.qingting.fm/live/267.m3u8
@@ -1154,7 +1159,6 @@ Lifetime,https://hls-gateway.vpstv.net/streams/708920.m3u8
 LUXE TV Channel,https://hls-gateway.vpstv.net/streams/708943.m3u8
 MTV,https://hls-gateway.vpstv.net/streams/708883.m3u8
 NBA TV,https://hls-gateway.vpstv.net/streams/476673.m3u8
-PopC,https://iptv.707626.xyz/ch/daeefde9dc8798b55bca340479357ebf/master.m3u8
 ROCK Action,http://tl.061833.xyz/tl/rockaction
 ROCK Action,https://hls-gateway.vpstv.net/streams/709551.m3u8
 Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
@@ -1230,7 +1234,6 @@ Warner TV,https://hls-gateway.vpstv.net/streams/602243.m3u8
 东森新闻,https://hls-gateway.vpstv.net/streams/476998.m3u8
 东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-1.m3u8
 东森亚洲卫视,https://hls-gateway.vpstv.net/streams/476264.m3u8
-东森亚洲卫视,https://pull-hsbj.vzan.com/v/slowlive_821481626725612419.flv
 东森洋片,https://stream1.freetv.fun/dong-sen-yang-pian-3.m3u8
 东森洋片,https://hls-gateway.vpstv.net/streams/476997.m3u8
 东森洋片,https://smt.858.qzz.io/Smart.php?id=ettvwestern
@@ -1304,7 +1307,6 @@ Warner TV,https://hls-gateway.vpstv.net/streams/602243.m3u8
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 台视财经,https://hls-gateway.vpstv.net/streams/476271.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-12.m3u8
-星影台,https://iptv.707626.xyz/ch/d435662d54b451d96cdb1bc534b4de82/master.m3u8
 原住民频道,https://hls-gateway.vpstv.net/streams/476228.m3u8
 中视,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv040&token=https://t.me/GPT_858
 中视,https://hls-gateway.vpstv.net/streams/476983.m3u8
@@ -1500,7 +1502,6 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-3.ctv
 火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.ottiptv.cc/huya/11342413
-中华小当家,https://live.metshop.top/huya/11342413
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
 蜡笔小新,https://live.ottiptv.cc/bilibili/30837590
 漫画解说,https://www.goodiptv.club/douyu/5907076
@@ -1771,11 +1772,6 @@ NBTV-4,url
 黎城综合,url
 合肥新闻,url
 固镇新闻,url
-滁州科教,url
-滁州新闻综合,url
-滁州市广播电视台 新闻综合,url
-滁州市广播电视台 公共,url
-滁州公共,url
 广德生活,url
 宁夏公共,url
 宁夏经济,url
@@ -1829,6 +1825,7 @@ Love Nature,url
 NHK World,url
 Now华剧,url
 Now剧集,url
+PopC,url
 Thrill,url
 TRT World,url
 TVBS欢乐,url
@@ -1853,6 +1850,7 @@ ViuTV6,url
 经典深圳旁边电影,url
 民视闽南,url
 民视影剧,url
+星影台,url
 中天新闻加高,url
 中天亚洲台,url
 CHC高清电影,url
