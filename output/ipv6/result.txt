@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-30 00:16:47,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-07-30 11:09:04,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1185,7 +1185,6 @@ LUXE TV Channel,https://hls-gateway.vpstv.net/streams/708943.m3u8
 MTV,https://hls-gateway.vpstv.net/streams/708883.m3u8
 NBA TV,https://hls-gateway.vpstv.net/streams/476673.m3u8
 PopC,https://test.946985.filegear-sg.me/proxy/37414657af7ded2b
-PopC,https://iptv.707626.xyz/ch/daeefde9dc8798b55bca340479357ebf/master.m3u8
 ROCK Action,http://tl.061833.xyz/tl/rockaction
 ROCK Action,https://test.946985.filegear-sg.me/proxy/f146d0e593c924e4
 ROCK Action,https://hls-gateway.vpstv.net/streams/709551.m3u8
@@ -1267,7 +1266,6 @@ Warner TV,https://hls-gateway.vpstv.net/streams/602243.m3u8
 东森新闻,https://hls-gateway.vpstv.net/streams/476998.m3u8
 东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-1.m3u8
 东森亚洲卫视,https://hls-gateway.vpstv.net/streams/476264.m3u8
-东森亚洲卫视,https://pull-hsbj.vzan.com/v/slowlive_821481626725612419.flv
 东森洋片,https://stream1.freetv.fun/dong-sen-yang-pian-3.m3u8
 东森洋片,https://hls-gateway.vpstv.net/streams/476997.m3u8
 东森洋片,https://smt.858.qzz.io/Smart.php?id=ettvwestern
@@ -1343,7 +1341,6 @@ Warner TV,https://hls-gateway.vpstv.net/streams/602243.m3u8
 台视财经,https://hls-gateway.vpstv.net/streams/476271.m3u8
 台视财经,https://t.freetv.fun/live/tai-shi-cai-jing.ts
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-12.m3u8
-星影台,https://iptv.707626.xyz/ch/d435662d54b451d96cdb1bc534b4de82/master.m3u8
 原住民频道,https://hls-gateway.vpstv.net/streams/476228.m3u8
 中视,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv040&token=https://t.me/GPT_858
 中视,https://test.946985.filegear-sg.me/proxy/643626fecd860e6a
@@ -1890,6 +1887,7 @@ ViuTV6,url
 经典深圳旁边电影,url
 民视闽南,url
 民视影剧,url
+星影台,url
 中天亚洲台,url
 CHC高清电影,url
 AMC电影,url
