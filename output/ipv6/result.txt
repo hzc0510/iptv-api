@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-06 00:22:39,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-08-06 11:05:33,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1055,10 +1055,12 @@ CETV-4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 ☘️吉林频道,#genre#
 延边卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+延边卫视,https://live.ybtvyun.com/video/s10006-2f92b9e0b123/index.m3u8
 延边卫视,https://stream1.freetv.fun/d2ea3a364fa453b29060ebccb5a06a1941755859c0182ab0f071473c08738fc2.m3u8
 延边卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 延边卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001470/index.m3u8
 延边卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild
 延边卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 长白朝语,http://hplayer1.juyun.tv:80/camera/11344136.m3u8
 珲春新闻综合,https://stream1.freetv.fun/hun-chun-xin-wen-zong-he-3.m3u8
@@ -1160,7 +1162,6 @@ Lifetime,https://hls-gateway.vpstv.net/streams/708920.m3u8
 LUXE TV Channel,https://hls-gateway.vpstv.net/streams/708943.m3u8
 MTV,https://hls-gateway.vpstv.net/streams/708883.m3u8
 NBA TV,https://hls-gateway.vpstv.net/streams/476673.m3u8
-PopC,https://iptv.707626.xyz/ch/daeefde9dc8798b55bca340479357ebf/master.m3u8
 ROCK Action,http://tl.061833.xyz/tl/rockaction
 ROCK Action,https://hls-gateway.vpstv.net/streams/709551.m3u8
 Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
@@ -1235,7 +1236,6 @@ Warner TV,https://hls-gateway.vpstv.net/streams/602243.m3u8
 东森新闻,https://hls-gateway.vpstv.net/streams/476998.m3u8
 东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-1.m3u8
 东森亚洲卫视,https://hls-gateway.vpstv.net/streams/476264.m3u8
-东森亚洲卫视,https://pull-hsbj.vzan.com/v/slowlive_821481626725612419.flv
 东森洋片,https://stream1.freetv.fun/dong-sen-yang-pian-3.m3u8
 东森洋片,https://hls-gateway.vpstv.net/streams/476997.m3u8
 东森洋片,https://smt.858.qzz.io/Smart.php?id=ettvwestern
@@ -1309,7 +1309,6 @@ Warner TV,https://hls-gateway.vpstv.net/streams/602243.m3u8
 台视财经,https://hls-gateway.vpstv.net/streams/476271.m3u8
 台视财经,https://t.freetv.fun/live/tai-shi-cai-jing-1.ts
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-12.m3u8
-星影台,https://iptv.707626.xyz/ch/d435662d54b451d96cdb1bc534b4de82/master.m3u8
 原住民频道,https://hls-gateway.vpstv.net/streams/476228.m3u8
 中视,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv040&token=https://t.me/GPT_858
 中视,https://hls-gateway.vpstv.net/streams/476983.m3u8
@@ -1830,6 +1829,7 @@ Love Nature,url
 NHK World,url
 Now华剧,url
 Now剧集,url
+PopC,url
 Thrill,url
 TRT World,url
 TVBS欢乐,url
@@ -1854,6 +1854,7 @@ ViuTV6,url
 经典深圳旁边电影,url
 民视闽南,url
 民视影剧,url
+星影台,url
 中天亚洲台,url
 CHC高清电影,url
 AMC电影,url
