@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-19 22:51:40,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-09-20 09:01:23,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -400,7 +400,6 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 南宁都市生活,https://stream1.freetv.fun/nan-zhu-du-shi-sheng-huo-1.m3u8
 灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8
 田东综合,http://pulls.myun.tv/live/0dkp33j5.m3u8
-广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
 
 ☘️天津频道,#genre#
 天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
@@ -632,7 +631,6 @@ HOY78,https://cdn.123.rr.kg/163189/hoy78
 HOY78,https://fast.hidns.vip/163189/hoy78
 HOY78,https://cdn.163189.xyz/163189/hoy78
 Love Nature,https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
-PopC,https://iptv.707626.xyz/ch/daeefde9dc8798b55bca340479357ebf/master.m3u8
 ROCK Action,http://tl.061833.xyz/tl/rockaction
 Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 Sky News,https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
@@ -674,7 +672,6 @@ ViuTV,http://r.jdshipin.com/vSJvl
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-8.m3u8
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv
 东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-1.m3u8
-东森亚洲卫视,https://pull-hsbj.vzan.com/v/slowlive_821481626725612419.flv
 东森洋片,https://hls-gateway.vpstv.net/streams/476997.m3u8
 翡翠,http://r.jdshipin.com/qClQf
 翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
@@ -706,7 +703,6 @@ ViuTV,http://r.jdshipin.com/vSJvl
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-11.m3u8
-星影台,https://iptv.707626.xyz/ch/d435662d54b451d96cdb1bc534b4de82/master.m3u8
 中视,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv040&token=https://t.me/GPT_858
 
 🎬电影频道,#genre#
@@ -779,7 +775,6 @@ CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=03a1b82e35e58cd89a9
 睛彩广场舞,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8
 睛彩广场舞,http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 睛彩广场舞,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226139/index.m3u8
-足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
 魅力足球,https://stream1.freetv.fun/mei-li-zu-qiu-1.m3u8
 
 🪁动画频道,#genre#
@@ -957,7 +952,6 @@ NBTV-4,url
 扬州新闻,url
 扬州生活,url
 扬州邗江,url
-武进新闻,url
 武进生活,url
 江宁新闻,url
 泗洪新闻综合,url
@@ -994,6 +988,7 @@ NBTV-4,url
 南宁影娱乐,url
 来宾综合,url
 广西新闻,url
+广西国际,url
 南宁影视娱乐,url
 津南一套,url
 天津都市,url
@@ -1103,7 +1098,6 @@ NBTV-4,url
 山西文体生活,url
 山西社会与法治,url
 山西经济与科技,url
-平遥新闻综合,url
 怀仁综合,url
 武乡新闻综合,url
 汾西综合,url
@@ -1177,6 +1171,7 @@ Lifetime,url
 MTV,url
 NBA TV,url
 NHK World,url
+PopC,url
 Thrill,url
 TRACE URBAN,url
 TVBS欢乐台,url
@@ -1203,6 +1198,7 @@ ViuTV6,url
 博斯运动2,url
 朝鲜恩情,url
 东森戏剧,url
+东森亚洲卫视,url
 东森幼幼,url
 东森综合,url
 非凡商业,url
@@ -1219,6 +1215,7 @@ ViuTV6,url
 民视闽南,url
 民视影剧,url
 台视财经,url
+星影台,url
 中视菁采,url
 中天亚洲台,url
 CHC家庭影院,url
