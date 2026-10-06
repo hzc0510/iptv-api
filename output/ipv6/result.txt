@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-06 04:02:08,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-10-06 11:05:52,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -689,6 +689,7 @@ HOY78,http://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY78,https://cdn.123.rr.kg/163189/hoy78
 HOY78,https://fast.hidns.vip/163189/hoy78
 HOY78,https://cdn.163189.xyz/163189/hoy78
+PopC,https://iptv.707626.xyz/ch/daeefde9dc8798b55bca340479357ebf/master.m3u8
 ROCK Action,http://tl.061833.xyz/tl/rockaction
 Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 Sky News,https://jmp2.uk/stvp-USBB52000022Q
@@ -764,6 +765,7 @@ ViuTV,https://10.fast.hidns.vip/163189/viu/
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-11.m3u8
+星影台,https://iptv.707626.xyz/ch/d435662d54b451d96cdb1bc534b4de82/master.m3u8
 中视,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv040&token=https://t.me/GPT_858
 
 🎬电影频道,#genre#
@@ -1236,7 +1238,6 @@ MTV,url
 NBA TV,url
 NHK World,url
 NHK WORLD-JAPAN,url
-PopC,url
 Smart知识,url
 Thrill,url
 TRT World,url
@@ -1286,7 +1287,6 @@ ViuTV6,url
 民视闽南,url
 民视影剧,url
 台视财经,url
-星影台,url
 中视菁采,url
 中天亚洲台,url
 经典电影,url
